@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wassim-triki
 - 👀 I’m a CS student
 - 🌱 I’m into fullstack web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: [Facebook](https://www.facebook.com/WassimTrikii) or [Linkedin](https://www.linkedin.com/in/wassimtriki/)
 
 <!---
